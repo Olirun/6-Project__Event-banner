@@ -1,0 +1,84 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700;900&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap'); */
+body
+{
+    background: #38263c;
+}
+.container 
+{
+    margin-left: 400px;
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 650px;
+}
+.head
+{
+    display: flex;
+    position: absolute;
+    top: -25px;
+    left: 35px;
+}
+.head__line
+{
+    border-bottom: 2px #fff solid;
+    color: #38263c;
+    margin-bottom: 90px;
+
+}
+.head__text
+{
+    font-size: 25px;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    color: #f8f2f9;
+    margin-left: 50px;
+    margin-right: 50px;
+    /* font-family: 'Rubik Mono One', sans-serif; */
+    font-weight: 900;
+    text-shadow: 0 0 2px #f8f2f9,0 0 2px #f8f2f9,0 0 2px #f8f2f9,0 0 2px #f8f2f9;
+
+}
+.main-text
+{
+    display: flex;
+    font-size: 75px;
+    color: #e96dc3;
+    text-shadow: 0 5px 5px #e96dc3,0 0 10px #e96dc3,0 0 15px #e96dc3,0 0 15px #e96dc3;
+    /* font-family: 'Rubik Mono One', sans-serif; */
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}
+
+.footer
+{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.text-2
+{
+    font-size: 25px;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    color: #f8f2f9;
+    font-weight: 900;
+    text-align: center;
+    text-shadow: 0 0 2px #f8f2f9,0 0 2px #f8f2f9,0 0 2px #f8f2f9,0 0 2px #f8f2f9;
+
+}
+
+.footer__line
+{
+    border-bottom: 2px #fff solid;
+    color: #38263c;
+    margin-bottom: 90px;
+}
