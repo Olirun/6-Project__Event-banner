@@ -1,4 +1,4 @@
 # Баннер мероприятия 
 ### Решил сверстать баннер, чтобы посмотреть, смогу или нет
 
-#### Сылка на сайт - [Banner](https://olirun.github.io//baner//).
+#### Сылка на сайт - [Banner](https://olirun.github.io/6-Project__Event-banner/).
